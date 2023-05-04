@@ -1,0 +1,13 @@
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\selfProjects\aspWebapp\WebApplication1\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

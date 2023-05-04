@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@page
+@using System.Data.SqlClient;
+@{
+			try
+			{
+				//connect to the database using the connection string
+				String connectionString = "Data Source=.\\SQLEXPRESS;Initial Catalog=mystore;Integrated Security=True";
+				//creat sql connection
+				using (SqlConnection connection = new SqlConnection(connectionString))
+				{
+					//open the connection
+					connection.Open();
+					//creat the sqlquery to read the data from our clients table 
+					string sql = "Delete from clients";
+					//creat the sqlcommand wich allows us to execute our sqlquery
+					using (SqlCommand command = new SqlCommand(sql, connection))
+					{
+						command.ExecuteNonQuery();
+					}
+				}
+			}catch(Exception ex)
+			{
+			}
+			
+			Response.Redirect("/Clients/Index");
+}
